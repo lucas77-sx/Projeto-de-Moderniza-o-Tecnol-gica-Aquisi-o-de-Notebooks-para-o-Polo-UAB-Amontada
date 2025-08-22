@@ -1,4 +1,9 @@
 # Projeto-de-Moderniza-o-Tecnol-gica-Aquisi-o-de-Notebooks-para-o-Polo-UAB-Amontada
+# RESUMO EXECUTIVO
+O objetivo geral ddo projeto é intesificar e ampliar a educação digital no polo UAB na cidade de Amontada, o projeto visa subistituir as maquinas que existem neste laborátorio por notebooks modernos.***com um orçamento total á cerca de R$202.600,00***.  a conclusão dessa proposta acarretará em  benefícios a todos envolvidos sejam ele(a)s professores,alunos,cordenenadores de polo, tutores entre outros e são de durabilidade á curto e longo prazo, alcançando niveís elevados de aprendizado pois ás aulas passarão a ser mais dinâmicas, com possíbilidades de ser tanto presencial como on-line auxiliando no ganho de experiência e adaptação de novas técnicas de ensino.
+
+
+
 # 2.APRESENTAÇÃO E JUSTIFICATIVA
 Na cidade de Amontada está localizado um polo da Universidade Aberta do Brasil (UAB), que conta com um laboratório de informática composto por aproximadamente 27 computadores do modelo desktop. Entretanto, parte dessas máquinas encontra-se inoperante e, entre as que ainda funcionam, muitas já se tornaram obsoletas.
 
@@ -32,9 +37,51 @@ De acordo com a proposta, abaixo vão estar detalhadamente todas as característ
 
 está listado os requisítos ideais para uma experiência educacional satisfatoria.
 **Exemplo de modelo compatível:**
-![Notebook Lenovo IdeaPad Slim 3i](imagempng.png.png)
+![Notebook Lenovo IdeaPad Slim 3i](imagem.png.png)
 *Figura 1 – Notebook Lenovo IdeaPad Slim 3i, modelo que atende às especificações recomendadas.*
 
 **Referências externas:**
 - [Lenovo IdeaPad Slim 3i – Site oficial](https://www.lenovo.com/br/pt/p/laptops/ideapad/ideapad-slim-3i)  
-- [Artigo: Benefícios do uso de notebooks na educação](https://www.educacao.sp.gov.br)  
+- [Artigo: Benefícios do uso de notebooks na educação](https://www.educacao.sp.gov.br)
+- ---
+
+## 5. Orçamento Estimado
+
+| Item                       | Quantidade | Valor Unitário (R$) | Valor Total (R$) |
+|----------------------------|------------|----------------------|------------------|
+| Notebook                   | 30         | 5.500,00             | 165.000,00       |
+| Seguro contra acidentes    | 30         | 400,00               | 12.000,00        |
+| Sistema de rastreamento    | 30         | 250,00               | 7.500,00         |
+| Licenças de Software       | 30         | 300,00               | 9.000,00         |
+| Bolsas/Cases de Proteção   | 30         | 150,00               | 4.500,00         |
+| Roteador Wi-Fi             | 2          | 800,00               | 1.600,00         |
+| Instalação/Configuração    | 1 serviço  | 3.000,00             | 3.000,00         |
+| **TOTAL GERAL ESTIMADO**   |            |                      | **202.600,00**   |
+
+---
+
+## 6. Benefícios Esperados
+- Aulas em diferentes ambientes da escola, sem depender de um único laboratório fixo.  
+- Redução significativa do consumo de energia elétrica em comparação com desktops.  
+- Maior engajamento dos estudantes, com acesso facilitado a metodologias ativas e ensino híbrido.  
+- Modernização da infraestrutura tecnológica do Polo UAB Amontada.  
+- Maior durabilidade e menor custo de manutenção a longo prazo.  
+
+---
+
+## 7. Cronograma Simplificado
+
+| Etapa              | Prazo Estimado |
+|--------------------|----------------|
+| Planejamento       | 4 semanas      |
+| Processo de compra | entre 2 e 3 semanas |
+| Instalação         | 3 semanas      |
+| Treinamento        | 4 semana       |
+| Implantação        | 3 semanas      |
+
+---
+
+## 8. Considerações Finais
+Este projeto tem como objetivo modernizar a infraestrutura tecnológica do Polo UAB Amontada, substituindo computadores obsoletos por notebooks modernos, eficientes e versáteis. O investimento á curto e longo prazo trará benefícios duradouros para alunos, professores e para a gestão escolar, garantindo mais flexibilidade, economia e qualidade no processo de ensino-aprendizagem. A escolha pelos notebooks representa a solução ideal para acompanhar as demandas da educação contemporânea e preparar o Polo para o futuro.
+
+---
